@@ -15,7 +15,7 @@ env.bak/
 venv.bak/
 
 # Django
-*.sqlite3
+# *.sqlite3
 *.py[cod]
 *.pyo
 *.db
@@ -81,7 +81,6 @@ coverage.xml
 # Django stuff:
 *.log
 local_settings.py
-db.sqlite3
 media
 staticfiles
 static
